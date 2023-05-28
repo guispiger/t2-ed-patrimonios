@@ -6,7 +6,7 @@ DESCRIÇÃO: Arquivo original [aqui](pdf/trabalho2.pdf)
 
 Estrutura, Pesquisa e Ordenação de Dados (TSI32B)
 Professor: Ivan Luiz Salvadori
-Trabalho 01
+Trabalho 02
 Atenção: Esta atividade será avaliada e corresponderá nota de acordo com o plano de
 ensino da disciplina.
 
